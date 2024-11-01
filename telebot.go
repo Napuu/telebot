@@ -76,6 +76,7 @@ const (
 	OnGeneralTopicHidden   = "\ageneral_topic_hidden"
 	OnGeneralTopicUnhidden = "\ageneral_topic_unhidden"
 	OnWriteAccessAllowed   = "\awrite_access_allowed"
+	OnMessageReaction      = "\amessage_reaction"
 
 	OnAddedToGroup      = "\aadded_to_group"
 	OnUserJoined        = "\auser_joined"
